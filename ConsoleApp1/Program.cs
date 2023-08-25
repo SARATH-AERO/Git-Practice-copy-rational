@@ -15,6 +15,9 @@ namespace ConsoleApp1
             string newio = "you are in master branch";
             string mes = "2nd commit is made";
             string hithere = "you are in master branch";
+            int vdal = 56556;
+            int koo = 56565;
+            int dfsdl = 342409;
         }
     }
 }
