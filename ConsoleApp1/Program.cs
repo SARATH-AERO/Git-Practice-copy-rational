@@ -14,6 +14,8 @@ namespace ConsoleApp1
             int value = 567;
             int brancha = 4566;
             int branchnew = 453;
+            string newio = "you are in master branch";
+            string mes = "2nd commit is made";
         }
     }
 }
