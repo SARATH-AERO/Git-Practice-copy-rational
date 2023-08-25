@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string hi = "you are in a seperate branch";
+            string hi = "both master & a branch rebased";
+            int value = 567;
+            int brancha = 4566;
+            int branchnew = 453;
         }
     }
 }
