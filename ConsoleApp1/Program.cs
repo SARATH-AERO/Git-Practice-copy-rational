@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string hi = "both master & a branch rebased";
+            string hi = "this will be a conflict";
         
             string newio = "you are in master branch";
             string mes = "2nd commit is made";
